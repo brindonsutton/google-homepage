@@ -1,0 +1,28 @@
+html {
+
+}
+
+body {
+    background: #fff;
+    font-family: arial, sans-serif;
+}
+
+.navbar {
+    font-size: 13px;
+}
+
+a {
+    text-decoration: none;
+    color: #1a0dab;
+}
+
+a:visited {
+    color: #609;
+}
+
+.left-navbar a {
+    display: inline-block;
+    padding-left: 15px;
+    color: #000;
+    opacity: 0.75;
+}
